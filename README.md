@@ -89,8 +89,7 @@ n = int(input("Enter the index to remove: "))
 print("Modified string:", remove(string, n))
 ```
 ## Output
-<img width="799" height="103" alt="image" src="https://github.com/user-attachments/assets/3e436ef5-0879-45bc-9020-d1038a7cc04a" />
-
+<img width="1015" height="165" alt="image" src="https://github.com/user-attachments/assets/9290e115-44a0-4b44-97d1-a951e5637d70" />
 
 ## Result
 The program successfully takes a string and an index number from the user, removes the character at the specified index, and prints the modified string without that character.
